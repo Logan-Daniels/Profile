@@ -6,8 +6,8 @@ I will use this GitHub profile to showcase my data science skills.
 
 ### Interests
 
-- Python 
-- Data Science
-- Urban Planning
-- Politics
-- Snowboarding
+🐍 Python 
+📈 Data Science
+🚃 Urban Planning
+🏛️ Politics
+🏂 Snowboarding
